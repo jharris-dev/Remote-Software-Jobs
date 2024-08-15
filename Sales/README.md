@@ -1,4 +1,4 @@
-Discover Remote Software Sales Jobs in the USA
+# Discover Remote Software Sales Jobs in the USA
 This open-source project aims to provide a curated list of software and SaaS companies based in the United States that are actively hiring remote Sales professionals. As the demand for remote work continues to grow, finding reliable and updated information about companies offering remote sales opportunities has become increasingly important.
 
 Why This Resource Exists
