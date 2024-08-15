@@ -55,4 +55,5 @@
 | Alkemics     | Retail            | JavaScript, React, Node.js | France, Germany, UK, Netherlands | [Careers Page](https://www.alkemics.com/careers) |
 | Talkwalker   | Analytics         | JavaScript, React, Python | Luxembourg, Germany, UK, France | [Careers Page](https://www.talkwalker.com/careers) |
 
-This table provides details on the countries these companies hire in, along
+### Contributing
+If you wish to add to or edit the list please create a new branch based on main and open a PR
